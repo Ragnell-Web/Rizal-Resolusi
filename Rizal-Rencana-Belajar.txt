@@ -1,0 +1,7 @@
+RENCANA BELAJAR BAHASA PEMROGRAMAN
+
+-- Belajar Javascript --
+    * Belajar DOM
+    * Belajar Framework Javascript
+-- Belajar PHP --
+-- Belajar Framework --
