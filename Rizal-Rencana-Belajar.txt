@@ -3,6 +3,11 @@ RENCANA BELAJAR BAHASA PEMROGRAMAN
 -- Belajar Javascript --
     * Belajar DOM
     * Belajar Framework Javascript
+      ^ Jquery
+      ^ Vue
+      ^ React
 -- Memperdalam HTML dan CSS
 -- Belajar PHP --
+    ^ Laravel
 -- Belajar Framework --
+-- Belajar Phyton
