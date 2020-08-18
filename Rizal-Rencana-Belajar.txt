@@ -5,6 +5,7 @@ RENCANA BELAJAR BAHASA PEMROGRAMAN
     * Belajar Framework Javascript
       ^ Jquery
       ^ Vue
+      ^ React
 -- Memperdalam HTML dan CSS
 -- Belajar PHP --
     ^ Laravel
