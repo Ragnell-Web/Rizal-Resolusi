@@ -12,3 +12,4 @@ RENCANA BELAJAR BAHASA PEMROGRAMAN
     ^ Laravel
 -- Belajar Framework --
 -- Belajar Phyton
+-- Update CV dan Linkedin
